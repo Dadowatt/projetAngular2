@@ -1,0 +1,13 @@
+.table-container {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  .table th, .table td {
+    vertical-align: middle;
+    line-height: 3rem;
+  }
+  .table-actions {
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
